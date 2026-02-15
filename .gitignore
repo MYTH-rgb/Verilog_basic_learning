@@ -1,0 +1,9 @@
+# SIMULATION FILES ELIMINATION
+*.vcd
+*.vpd
+*.wlf
+
+# EXECUTION FILE ELIMINATION
+OUTPUT_FILE
+*.out
+*.exe
