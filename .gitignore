@@ -7,7 +7,3 @@
 OUTPUT_FILE
 *.out
 *.exe
-
-# MAKEFILE ELIMINATION
-Makefile
-makefile
